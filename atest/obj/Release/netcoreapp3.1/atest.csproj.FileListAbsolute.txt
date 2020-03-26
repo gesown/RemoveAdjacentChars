@@ -1,0 +1,11 @@
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.exe
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.deps.json
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.runtimeconfig.json
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.runtimeconfig.dev.json
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.dll
+c:\src\atest\atest\bin\Release\netcoreapp3.1\atest.pdb
+c:\src\atest\atest\obj\Release\netcoreapp3.1\atest.csprojAssemblyReference.cache
+c:\src\atest\atest\obj\Release\netcoreapp3.1\atest.AssemblyInfoInputs.cache
+c:\src\atest\atest\obj\Release\netcoreapp3.1\atest.AssemblyInfo.cs
+c:\src\atest\atest\obj\Release\netcoreapp3.1\atest.dll
+c:\src\atest\atest\obj\Release\netcoreapp3.1\atest.pdb
