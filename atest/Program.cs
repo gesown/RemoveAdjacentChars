@@ -10,6 +10,7 @@ namespace atest
         public static void Main()
         {
             // "abcccbcy" official test
+            Console.OpenStandardInput(); 
             Console.WriteLine("Type string of characters to remove duplicate adjacents.");
             var strIn = Console.ReadLine();
             var model = AtFacade.GetModel(strIn);
